@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="camera_frame_width">220dp</dimen>
+    <dimen name="find_dialog_down">-7dp</dimen>
+    <dimen name="find_dialog_height">200dp</dimen>
+    <dimen name="camera_font_size">14sp</dimen>
+</resources>
